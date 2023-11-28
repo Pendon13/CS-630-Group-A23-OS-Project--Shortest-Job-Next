@@ -1,0 +1,14 @@
+[2023-11-21 15:43:38.234029]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:43:49.766178]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:45:42.161081]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:46:00.447441]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:46:30.528043]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:46:30.655780]: Filename: jobone.txt, Time: 100, Type: write, Job Completed
+[2023-11-21 15:47:13.240389]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:47:13.358890]: Filename: jobone.txt, Time: 100, Type: write, Job Completed[2023-11-21 15:48:09.015462]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:48:09.145835]: Filename: jobone.txt, Time: 100, Type: write, Job Completed
+[2023-11-21 15:56:03.507222]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:56:03.624039]: Filename: jobone.txt, Time: 100, Type: write, Job Completed
+[2023-11-21 15:57:46.910275]: Filename: jobone.txt | Time: 100 | Type: write
+[2023-11-21 15:59:37.533422]: Filename: jobtwo.txt | Time: 100 | Type: read
+[2023-11-21 15:59:37.534415]: Filename: jobtwo.txt, Time: 100, Type: read, Job Failure: FileNotFound
